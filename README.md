@@ -6,6 +6,9 @@
 
 [**去除Steam验证**]
 
+Since the author of this engine has run away unmaintained, So......
+[Updated to Electron 33.02]
+[Removed Steam verification]
 ------------------------
 版本信息
 - Author Yami Sama
