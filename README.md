@@ -10,11 +10,7 @@
 版本信息
 
 - Editor 1.0.16
-
 - Electron 33.0.2
-
-Chromium 130.0.6723.59
-
-Node.js 20.18.0
-
-V8 13.0.245.16-electron.0
+- Chromium 130.0.6723.59
+- Node.js 20.18.0
+- V8 13.0.245.16-electron.0
