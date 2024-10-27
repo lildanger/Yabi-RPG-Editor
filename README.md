@@ -8,7 +8,8 @@
 
 ------------------------
 版本信息
-
+- Author Yami Sama
+- Credit Davis Corsac
 - Editor 1.0.16
 - Electron 33.0.2
 - Chromium 130.0.6723.59
