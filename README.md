@@ -5,8 +5,8 @@
 [更新至**Electron 33.0.2**] _(包含程序本体和部署版本_
 
 [**去除Steam验证**]
-
 目前发现一个往文件管理器中拖录文件无法正常添加的BUG
+
 ---------------------------
 Since the author of this engine has run away unmaintained, So......
 
