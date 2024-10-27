@@ -6,6 +6,8 @@
 
 [**去除Steam验证**]
 
+目前发现一个往文件管理器中拖录文件无法正常添加的BUG
+---------------------------
 Since the author of this engine has run away unmaintained, So......
 
 [Updated to Electron 33.0.2]
