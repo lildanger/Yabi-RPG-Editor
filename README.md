@@ -1,14 +1,14 @@
 # Yami-RPG-Editor**自用魔改**
 
-由于此引擎作者已经**跑路**无人维护，So……
+由于此引擎作者已经**跑路**无人维护，所以...
 
-[更新至**Electron 33.02**]
+[更新至**Electron 33.0.2**](包含程序本体和部署版本)
 
 [**去除Steam验证**]
 
 Since the author of this engine has run away unmaintained, So......
 
-[Updated to Electron 33.02]
+[Updated to Electron 33.0.2]
 
 [Removed Steam verification]
 
